@@ -1,0 +1,8 @@
+numpy
+scipy
+qutip
+fastapi
+uvicorn
+scikit-learn
+keras
+tensorflow 
